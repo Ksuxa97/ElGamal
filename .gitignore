@@ -1,0 +1,6 @@
+__pycache__
+.idea
+site-packages
+Scripts
+man1
+/venv
